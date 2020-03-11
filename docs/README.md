@@ -2,7 +2,8 @@
 my name is akalnka
 <img src="./img/chess_pieces_fighting_board_88519_1366x768.jpg"/>
 
-[![Made with latest Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
+# this my second image
+<img src="./img/cube_fire_dark_light_alloy_36536_1366x768.jpg"/>
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-template.svg)](https://GitHub.com/MichaelCurrin/docsify-template/tags/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/docsify-template/blob/master/LICENSE)
 

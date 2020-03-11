@@ -1,5 +1,6 @@
 # Name of the user
 my name is akalnka
+<img src="./img/chess_pieces_fighting_board_88519_1366x768.jpg"/>
 
 [![Made with latest Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-template.svg)](https://GitHub.com/MichaelCurrin/docsify-template/tags/)

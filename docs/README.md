@@ -1,4 +1,4 @@
-# Name of user
+# Name
 my name is akalanka
 
 [![Made with latest Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)

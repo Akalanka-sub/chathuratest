@@ -24,7 +24,7 @@
 ### 1.COUNTER OPEN
 <img src="./img/p 8 new 1.PNG"/>
 
-#### 1.1Includes
+#### 1.1 Includes
 01. Current date:- Insert current date.
 02. Set date    :- Auto set date and we can change this date manually.
 03. Open counter:- The relevant counter can be opened mannually. And also can be selected all counters.
@@ -36,7 +36,7 @@
 ### 2.ERROR CORRECTION
 <img src="./img/p 10.PNG"/>
 
-#### 2.1includes
+#### 2.1 Includes
 01. Tran ID:- Transaction ID
 02. Stub   :- Stub number
 03. Account:- Account number
@@ -49,7 +49,7 @@
 10. Filter By Account :- We can be find the required account numbers with click this button.
 11. Correction        :- When we click the the correction button after complete the above process we can be succeeded the correction process
 
-
+### 3.ALLOW BACKDATE
 
 
 

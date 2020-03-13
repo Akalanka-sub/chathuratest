@@ -1,10 +1,10 @@
 # USER LOGIN
 <img src="./img/p 17.PNG"/>
 
-# this my second image
-<img src="./img/cube_fire_dark_light_alloy_36536_1366x768.jpg"/>
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-template.svg)](https://GitHub.com/MichaelCurrin/docsify-template/tags/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/docsify-template/blob/master/LICENSE)
+## Steps
+1. Enter the user name
+2. Enter password
+3. Click the 'sign in' buttom
 
 Convert your docs folder into a pretty docs website using [Docsify-JS](https://docsify.js.org/) and some minimal setup instructions. This project's doc site itself is also running on _Docsify_.
 

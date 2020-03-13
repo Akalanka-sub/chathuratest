@@ -57,8 +57,8 @@
 2. Current Date
 3. Agent 
 4. Center
-5. Allow BackDate   :- Can be choosed required counter id for allow backdate.
-6. Allow to BackDate:- When the above boxes are complete clicking the 'Allow to BackDate' button complete the process.
+5. Allow BackDate    :- Can be choosed required counter id for allow backdate.
+6. Allow to BackDate :- When the above boxes are complete clicking the 'Allow to BackDate' button complete the process.
 
 
 -   Run [Docsify CLI](#docsify-cli) web server.

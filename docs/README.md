@@ -6,12 +6,12 @@
 2. Enter password
 3. Click the 'sign in' buttom
 
-Convert your docs folder into a pretty docs website using [Docsify-JS](https://docsify.js.org/) and some minimal setup instructions. This project's doc site itself is also running on _Docsify_.
-
-If you know what _Docsify_ is and want to start using it immediately, feel free to skip to one of these sections:
-
-- [Quickstart local server](#quickstart-local-server) - Get a demo site running.
-- [Setup your own docs site](#setup-your-own-docs-site) - Convert your docs directory into a docs site hosted on Github pages. Uses templates files to get up and running with as little effort as possible.
+# PCDS HOME
+## Includes
+1. ADMIN MODULE
+2. CASHIERING MODULE
+3. REPORTING MODULE
+4. JOURNAL MODULE
 
 _Note: The instructions in this repo are intended for Linux and macOS environments._
 

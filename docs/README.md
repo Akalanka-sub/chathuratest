@@ -15,8 +15,11 @@
 3. REPORTING MODULE
 4. JOURNAL MODULE
 
-### ADMIN MODULE
+## ADMIN MODULE
 <img src="./img/p 8.PNG"/>
+
+### SIDE MENU
+<img src="./img/p 8 new.PNG"/>
 
 ## _Docsify_ basics
 

@@ -21,13 +21,8 @@
 ### SIDE MENU
 <img src="./img/p 8 new.PNG"/>
 
-## _Docsify_ basics
-
-A _Docsify_ doc site works works _without_ the need to edit your existing docs and _without_ building any HTML pages. The rendering is done on the client-side in a single page application, running on _index.html_.
-
-### Structure
-
-Main components of a _Docsify_ site.
+### COUNTER OPEN
+<img src="./img/p 8 new 1.PNG"/>
 
 - **cover page** - Optional. Landing page with background color or image and some minimal text.
 - **homepage** - First page that a user sees, after the cover page. This is a content page written in markdown and it could be the only page of your site if you like.

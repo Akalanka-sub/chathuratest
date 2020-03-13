@@ -1,4 +1,4 @@
-![icon](_media/download.PNG)
+![icon](_media/download.png)
 
 
 

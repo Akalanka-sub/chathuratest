@@ -24,40 +24,16 @@
 ### COUNTER OPEN
 <img src="./img/p 8 new 1.PNG"/>
 
-- **cover page** - Optional. Landing page with background color or image and some minimal text.
-- **homepage** - First page that a user sees, after the cover page. This is a content page written in markdown and it could be the only page of your site if you like.
-- **index page** - HTML file base of the app. This includes JS and CSS calls for setting up and styling the _Docsify_ app. Plus JS code which you set to customize the app.
-- **sidebar** - Optional. Describes the menu layout for the left sidebar, using custom ordering and nested structure. _Docsify_ is not aware of directory structure, so this is where you get to define your menu. Alternatively, let _Docsify_ create the menu bar based on the structure of your homepage (_docs/README.md) file - this works best if you only have a single content markdown page or a _navbar_ (top of the screen) to switch between sections.
-- **navbar** - Optional. Describes the menu layout for the top right menu.
+#### Includes
+1. Current date:- Insert current date.
+2. Set date    :- Auto set date and we can change this date manually.
+3. Open counter:- The relevant counter can be opened mannually. And also can be selected all counters.
+4. Counter ID
+4. Agent
+5. Center
+6. Save counter status buuton:- After completing the above click to this button for save.
 
-Once you have that setup in _docs_ directory and have pushed to Github, you can setup Github Pages serving the _docs_ directory. Note: _Docsify_ also works with _Netlify_ as per their docs, but this project just considers the Github Pages case.
 
-### Linking to pages
-
-Instructions for creating valid Docsify links in your markdown files.
-
-The _Docsify_ site is served from the `docs` directory with restrictions on links between files. Therefore you must ensure your markdown files (including the [sidebar](#sidebar)) are valid.
-
-As usual external resource can be linked e.g. `https://example.com`.
-
-**Rules for internal links**
-
-Apply these rules to the latter part of markdown URLs such as `[Text](page.md)`.
-
-- Links must always be relative to the `docs` directory and **not** to the file containing the link.
-    - e.g. `foo.md`, which becomes `/#/foo`.
-    - e.g. `baz/fizz.md`, which becomes `/#/baz/fizz`.
-- Links may contain a leading forward slash. This has no effect so can be ignored.
-    - e.g. `/foo.md`, which becomes `/#/foo`.
-- Links may use an ID.
-    - e.g. To link to heading on the homepage, use `#my-project`, which gets converted to `/#/?id=my-project`.
-    - e.g. To link to another page, use `foo.md#my-project`.
-- Do not reference the `docs` directory in the path. e.g. `/docs/foo.md`
-- Do not refer to content outside of the `docs` directory.  e.g. `../README.md`
-
-## Serve a _Docsify_ site locally
-
-Start running a local server to preview a _Docsify_ site. Choose an option below depending on whether you want to install and run Docsify locally or use something you already have installed.
 
 -   Run [Docsify CLI](#docsify-cli) web server.
     ```bash

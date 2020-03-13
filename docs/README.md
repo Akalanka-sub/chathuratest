@@ -1,6 +1,6 @@
 # Name of the user
 my name is akalnka
-<img src="./img/chess_pieces_fighting_board_88519_1366x768.jpg"/>
+<img src="./img/lamp_outlet_idea_electricity_120422_1366x768.jpg"/>
 
 # this my second image
 <img src="./img/cube_fire_dark_light_alloy_36536_1366x768.jpg"/>

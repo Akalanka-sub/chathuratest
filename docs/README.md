@@ -21,10 +21,10 @@
 ### SIDE MENU
 <img src="./img/p 8 new.PNG"/>
 
-### COUNTER OPEN
+### 1.COUNTER OPEN
 <img src="./img/p 8 new 1.PNG"/>
 
-#### Includes
+#### 1.1Includes
 01. Current date:- Insert current date.
 02. Set date    :- Auto set date and we can change this date manually.
 03. Open counter:- The relevant counter can be opened mannually. And also can be selected all counters.
@@ -33,10 +33,10 @@
 05. Center
 06. Save counter status buuton:- After completing the above click to this button for save.
 
-### ERROR CORRECTION
+### 2.ERROR CORRECTION
 <img src="./img/p 10.PNG"/>
 
-#### includes
+#### 2.1includes
 01. Tran ID:- Transaction ID
 02. Stub   :- Stub number
 03. Account:- Account number

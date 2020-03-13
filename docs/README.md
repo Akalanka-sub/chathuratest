@@ -7,6 +7,7 @@
 3. Click the 'sign in' buttom
 
 # PCDS HOME
+
 ## Includes
 1. ADMIN MODULE
 2. CASHIERING MODULE

@@ -2,18 +2,18 @@
 <img src="./img/p 17.PNG"/>
 
 ## Steps
-1. Enter the user name
-2. Enter password
-3. Click the 'sign in' button
+01. Enter the user name
+02. Enter password
+03. Click the 'sign in' button
 
 # PCDS HOME
 <img src="./img/p 7.PNG"/>
 
 ## Includes
-1. ADMIN MODULE
-2. CASHIERING MODULE
-3. REPORTING MODULE
-4. JOURNAL MODULE
+01. ADMIN MODULE
+02. CASHIERING MODULE
+03. REPORTING MODULE
+04. JOURNAL MODULE
 
 ## ADMIN MODULE
 <img src="./img/p 8.PNG"/>
@@ -25,16 +25,33 @@
 <img src="./img/p 8 new 1.PNG"/>
 
 #### Includes
-1. Current date:- Insert current date.
-2. Set date    :- Auto set date and we can change this date manually.
-3. Open counter:- The relevant counter can be opened mannually. And also can be selected all counters.
-4. Counter ID
-4. Agent
-5. Center
-6. Save counter status buuton:- After completing the above click to this button for save.
+01. Current date:- Insert current date.
+02. Set date    :- Auto set date and we can change this date manually.
+03. Open counter:- The relevant counter can be opened mannually. And also can be selected all counters.
+04. Counter ID
+04. Agent
+05. Center
+06. Save counter status buuton:- After completing the above click to this button for save.
 
 ### ERROR CORRECTION
 <img src="./img/p 10.PNG"/>
+
+#### includes
+01. Tran ID:- Transaction ID
+02. Stub   :- Stub number
+03. Account:- Account number
+04. Amount
+05. Date   :- Relevant date
+06. Time   :- Relevant time
+07. Counter:- Counter number
+08. User
+09. Send to correction:- Can be selected one by one what are the accounts send to the corrections.
+10. Filter By Account :- We can be find the required account numbers with click this button.
+11. Correction        :- When we click the the correction button after complete the above process we can be succeeded the correction process
+
+
+
+
 
 -   Run [Docsify CLI](#docsify-cli) web server.
     ```bash

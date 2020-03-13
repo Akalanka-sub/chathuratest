@@ -1,6 +1,5 @@
-# Name of the user
-my name is akalnka
-<img src="./img/lamp_outlet_idea_electricity_120422_1366x768.jpg"/>
+# USER LOGIN
+<img src="./img/p 17.PNG"/>
 
 # this my second image
 <img src="./img/cube_fire_dark_light_alloy_36536_1366x768.jpg"/>

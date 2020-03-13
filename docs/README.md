@@ -33,7 +33,8 @@
 5. Center
 6. Save counter status buuton:- After completing the above click to this button for save.
 
-
+### ERROR CORRECTION
+<img src="./img/p 10.PNG"/>
 
 -   Run [Docsify CLI](#docsify-cli) web server.
     ```bash

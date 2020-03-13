@@ -63,6 +63,9 @@
 After complete the process, we can be see this alert box.
 <img src="./img/p 14.PNG"/>
 
+### USER CREATION
+<img src="./img/p 15.PNG"/>
+
 
 -   Run [Docsify CLI](#docsify-cli) web server.
     ```bash

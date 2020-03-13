@@ -4,9 +4,10 @@
 ## Steps
 1. Enter the user name
 2. Enter password
-3. Click the 'sign in' buttom
+3. Click the 'sign in' button
 
 # PCDS HOME
+<img src="./img/p 7.PNG"/>
 
 ## Includes
 1. ADMIN MODULE

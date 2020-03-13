@@ -60,6 +60,9 @@
 5. Allow BackDate    :- Can be choosed required counter id for allow backdate.
 6. Allow to BackDate :- When the above boxes are complete clicking the 'Allow to BackDate' button complete the process.
 
+After complete the process, we can be see this alert box.
+<img src="./img/p 14.PNG"/>
+
 
 -   Run [Docsify CLI](#docsify-cli) web server.
     ```bash

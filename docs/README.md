@@ -72,7 +72,7 @@ After complete the process, we can be see this alert box.
 3. Password
 4. Search Availability:- Can search for a user id if it has been set before from click this button.
 5. PF Number:-
-6. Roll ID:- From this box you can select the option cashier or admin user.
+6. Roll ID:- As shown below from this box you can select the option cashier or admin user.
 <img src="./img/p 15 new 1.PNG"/>
 
 

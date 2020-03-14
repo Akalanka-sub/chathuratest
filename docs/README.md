@@ -47,7 +47,7 @@
 08. User
 09. Send to correction:- Can be selected one by one what are the accounts send to the corrections.
 10. Filter By Account :- Can find the required account numbers by clicking this button.
-11. Correction        :- When clicking the the 'correction' button after completing the above process the correction button should be clicked.
+11. Correction        :- After completing the above process the 'correction' button should be clicked.
 
 ### ALLOW BACKDATE
 <img src="./img/p 13.PNG"/>

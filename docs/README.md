@@ -76,6 +76,12 @@ After complete the process, we can be see this alert box.
 <img src="./img/p 15 new 1.PNG"/>
 7. Collection Agent:- As shown below from this box you can select relevant agent.
 <img src="./img/p 15 new 2.PNG"/>
+8. Cost Center
+9. Collection Center
+10. Status:-
+11. Save:- When the above boxes are complete click the 'save' button to create a user.
+12. Refresh:- If you want to erase above boxes's informations click the 'refresh' button.
+
 
 
 

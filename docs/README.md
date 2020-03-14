@@ -83,6 +83,5 @@ After complete the process, we can be see this alert box.
 12. Refresh:- If you want to erase above boxes's informations click the 'refresh' button.
 
 ### EDIT USER
-
 <img src="./img/p 12.PNG"/>
 

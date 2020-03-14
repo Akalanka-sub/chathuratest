@@ -85,3 +85,9 @@ After complete the process, we can be see this alert box.
 ### EDIT USER
 <img src="./img/p 12.PNG"/>
 
+#### Includes
+Edit user interface consist almost the same as the user creation interface. This interface has minor differences with respect to user creation interfase. There are,
+1. Save Changes:- To save the changes click this button.
+2. Fetch User Details:- Give the command for edit user's details click this button. If you insert invalid id number you can see this alert box.
+<img src="./img/p 20.PNG"/>
+

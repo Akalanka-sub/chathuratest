@@ -74,7 +74,8 @@ After complete the process, we can be see this alert box.
 5. PF Number:-
 6. Roll ID:- As shown below from this box you can select the option cashier or admin user.
 <img src="./img/p 15 new 1.PNG"/>
-
+7. Collection Agent:- As shown below from this box you can select relevant agent.
+<img src="./img/p 15 new 2.PNG"/>
 
 
 

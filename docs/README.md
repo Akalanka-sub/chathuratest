@@ -66,6 +66,18 @@ After complete the process, we can be see this alert box.
 ### USER CREATION
 <img src="./img/p 18.PNG"/>
 
+#### Includes
+1. User ID
+2. User Name
+3. Password
+4. Search Availability:- Can search for a user id if it has been set before from click this button.
+5. PF Number:-
+6. Roll ID:- From this box you can select the option cashier or admin user.
+<img src="./img/p 15 new 1.PNG"/>
+
+
+
+
 
 -   Run [Docsify CLI](#docsify-cli) web server.
     ```bash

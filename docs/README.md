@@ -26,12 +26,12 @@
 
 #### Includes
 01. Current date:- Insert current date.
-02. Set date    :- Auto set date and we can change this date manually.
+02. Set date    :- Auto set date and also can change this date manually.
 03. Open counter:- The relevant counter can be opened mannually. And also can be selected all counters.
 04. Counter ID
 04. Agent
 05. Center
-06. Save counter status buuton:- After completing the above click to this button for save.
+06. Save counter status button:- After completing the above, click this button to save.
 
 ### ERROR CORRECTION
 <img src="./img/p 10.PNG"/>
@@ -46,8 +46,8 @@
 07. Counter:- Counter number
 08. User
 09. Send to correction:- Can be selected one by one what are the accounts send to the corrections.
-10. Filter By Account :- We can be find the required account numbers with click this button.
-11. Correction        :- When we click the the 'correction' button after complete the above process we can be succeeded the correction process
+10. Filter By Account :- Can find the required account numbers by clicking this button.
+11. Correction        :- When clicking the the 'correction' button after completing the above process the correction button should be clicked.
 
 ### ALLOW BACKDATE
 <img src="./img/p 13.PNG"/>
@@ -57,10 +57,10 @@
 2. Current Date
 3. Agent 
 4. Center
-5. Allow BackDate    :- Can be choosed required counter id for allow backdate.
-6. Allow to BackDate :- When the above boxes are complete clicking the 'Allow to BackDate' button complete the process.
+5. Allow BackDate    :- Can choose required counter id to allow backdate.
+6. Allow to BackDate :- After filling the above boxes, by clicking 'Allowed to BackDate' button process will be completed.
 
-After complete the process, we can be see this alert box.
+After completing the process, can see this alert box.
 <img src="./img/p 14.PNG"/>
 
 ### USER CREATION
